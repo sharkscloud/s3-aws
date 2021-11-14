@@ -10,3 +10,7 @@ data compliance/regulations
 Prevent Accidential Deletion of data (Object) in S3 bucket.
 1. For this we use Versioning.
 
+How do you grant connectivity to S3 buckets without using Internet?
+
+VPC endpoint --> https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints.html
+
